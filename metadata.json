@@ -1,0 +1,7 @@
+{
+  "name": "Tiếng Anh 10 Global Success AI Knowledge Base",
+  "description": "Kho dữ liệu tri thức chuẩn hóa từ sách giáo khoa Tiếng Anh 10 Global Success phục vụ xây dựng ứng dụng AI học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
